@@ -3,7 +3,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/deepansh946/count.svg" />
+  <img src="https://profile-counter.glitch.me/vivek7415/count.svg" />
 </p>
 
 - 💬 Ask me about **Golang, Problem Solving, Designing System**
