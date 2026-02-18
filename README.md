@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh Kushwah</h1>
 <h3 align="center">A Golang developer specialising in designing system and mentoring people. </h3>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vivek7415/count.svg" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivek7415&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
 - 💬 Ask me about **Golang, Problem Solving, Designing System**
